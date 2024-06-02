@@ -1,0 +1,26 @@
+<!-- res/drawable/custom_progress_bar.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape
+            android:innerRadiusRatio="4"
+            android:shape="ring"
+            android:thicknessRatio="6"
+            android:useLevel="false">
+            <solid android:color="@color/teal_700" />
+        </shape>
+    </item>
+
+    <item>
+        <rotate
+            android:fromDegrees="0"
+            android:toDegrees="360">
+            <shape
+                android:innerRadiusRatio="5"
+                android:shape="ring"
+                android:thicknessRatio="4"
+                android:useLevel="true">
+                <solid android:color="@color/teal_200" />
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

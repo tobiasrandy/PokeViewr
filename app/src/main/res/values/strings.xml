@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PokéViewr</string>
+    <string name="empty_pokemon_list">No Pokémon to Display</string>
+    <string name="empty_my_pokemon_list">You haven\'t caught any Pokémon yet.</string>
+    <string name="error_alert">An error occured: %1$s</string>
+    <string name="unknown_type">Unknown Type</string>
+    <string name="details">Details</string>
+    <string name="moves">Moves</string>
+    <string name="stats">Stats</string>
+    <string name="hp">HP</string>
+    <string name="attack">Attack</string>
+    <string name="defense">Defense</string>
+    <string name="sp_atk">Sp. Atk</string>
+    <string name="sp_def">Sp. Def</string>
+    <string name="speed">Speed</string>
+    <string name="baby">Baby</string>
+    <string name="legendary">Legendary</string>
+    <string name="mythical">Mythical</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="abilities">Abilities</string>
+    <string name="tap_pokeball">Tap to catch this Pokémon!</string>
+    <string name="pokemon_success">You\'ve caught this Pokémon! Check it on the My Pokémon page.</string>
+    <string name="pokemon_fail">Failed to catch this Pokémon. Try again!</string>
+    <string name="my_pokemon">My Pokémon</string>
+    <string name="release_pokemon_success">Successfully released %1$s.</string>
+    <string name="release_pokemon_fail"> %1$s! Failed to release Pokémon.</string>
+    <string name="edit_name_title">Customize Pokémon Name</string>
+    <string name="name">Name</string>
+    <string name="empty_name_validation">The name cannot be empty.</string>
+</resources>
