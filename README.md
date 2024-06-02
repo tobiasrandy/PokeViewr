@@ -1,5 +1,8 @@
 # PokeViewr
-PokeViewr is an Android application that offers users a seamless experience in exploring Pokémon. Built with modern technologies and following best practices, PokeViewr utilizes the MVVM (Model-View-ViewModel) architectural pattern, Retrofit for network requests, Hilt for dependency injection, coroutines for asynchronous programming, Room for local data storage, and Google Material Design principles to deliver a smooth and user-friendly interface.
+PokeViewr is an Android application that offers users a seamless experience in exploring Pokémon sourced from [PokeApi](https://pokeapi.co/). Built with modern technologies and following best practices, PokeViewr utilizes the MVVM (Model-View-ViewModel) architectural pattern, Retrofit for network requests, Hilt for dependency injection, coroutines for asynchronous programming, Room for local data storage, and Google Material Design principles to deliver a smooth and user-friendly interface.
+
+## Disclaimer
+PokeViewr is a fan-made project and is not affiliated with or endorsed by the Pokémon Company, Nintendo, or Game Freak. Pokémon is a registered trademark of Nintendo, Creatures Inc., and Game Freak.
 
 ## Features
 
